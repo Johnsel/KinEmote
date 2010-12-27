@@ -1,0 +1,13 @@
+C:\Users\Johnny\Documents\Visual Studio 2010\Projects\Archive\KinEmote\KinEmote v0.2 public beta\bin\Debug\KinEmote.exe.config
+C:\Users\Johnny\Documents\Visual Studio 2010\Projects\Archive\KinEmote\KinEmote v0.2 public beta\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Johnny\Documents\Visual Studio 2010\Projects\Archive\KinEmote\KinEmote v0.2 public beta\obj\x86\Debug\KinEmote.Main.resources
+C:\Users\Johnny\Documents\Visual Studio 2010\Projects\Archive\KinEmote\KinEmote v0.2 public beta\obj\x86\Debug\KinEmote.Properties.Resources.resources
+C:\Users\Johnny\Documents\Visual Studio 2010\Projects\Archive\KinEmote\KinEmote v0.2 public beta\obj\x86\Debug\KinEmote.StreamView.resources
+C:\Users\Johnny\Documents\Visual Studio 2010\Projects\Archive\KinEmote\KinEmote v0.2 public beta\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Johnny\Documents\Visual Studio 2010\Projects\Archive\KinEmote\KinEmote v0.2 public beta\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Johnny\Documents\Visual Studio 2010\Projects\Archive\KinEmote\KinEmote v0.2 public beta\bin\Debug\data\openni.xml
+C:\Users\Johnny\Documents\Visual Studio 2010\Projects\Archive\KinEmote\KinEmote v0.2 public beta\bin\Debug\data\openniconfig.xml
+C:\Users\Johnny\Documents\Visual Studio 2010\Projects\Archive\KinEmote\KinEmote v0.2 public beta\bin\Debug\KinEmote.exe
+C:\Users\Johnny\Documents\Visual Studio 2010\Projects\Archive\KinEmote\KinEmote v0.2 public beta\bin\Debug\KinEmote.pdb
+C:\Users\Johnny\Documents\Visual Studio 2010\Projects\Archive\KinEmote\KinEmote v0.2 public beta\obj\x86\Debug\KinEmote.exe
+C:\Users\Johnny\Documents\Visual Studio 2010\Projects\Archive\KinEmote\KinEmote v0.2 public beta\obj\x86\Debug\KinEmote.pdb
