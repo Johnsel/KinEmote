@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="KinEmote.Properties" GeneratedClassName="CustomKeys">
+  <Profiles />
+  <Settings>
+    <Setting Name="MidUp" Type="System.Windows.Forms.Keys" Scope="User">
+      <Value Profile="(Default)">Up</Value>
+    </Setting>
+    <Setting Name="MidDown" Type="System.Windows.Forms.Keys" Scope="User">
+      <Value Profile="(Default)">Down</Value>
+    </Setting>
+    <Setting Name="MidLeft" Type="System.Windows.Forms.Keys" Scope="User">
+      <Value Profile="(Default)">Left</Value>
+    </Setting>
+    <Setting Name="MidRight" Type="System.Windows.Forms.Keys" Scope="User">
+      <Value Profile="(Default)">Right</Value>
+    </Setting>
+    <Setting Name="BackLeft" Type="System.Windows.Forms.Keys" Scope="User">
+      <Value Profile="(Default)">Back</Value>
+    </Setting>
+    <Setting Name="BackRight" Type="System.Windows.Forms.Keys" Scope="User">
+      <Value Profile="(Default)">I</Value>
+    </Setting>
+    <Setting Name="BackUp" Type="System.Windows.Forms.Keys" Scope="User">
+      <Value Profile="(Default)">Space</Value>
+    </Setting>
+    <Setting Name="Push" Type="System.Windows.Forms.Keys" Scope="User">
+      <Value Profile="(Default)">Enter</Value>
+    </Setting>
+    <Setting Name="Setting" Type="System.Windows.Forms.Keys" Scope="User">
+      <Value Profile="(Default)">None</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
