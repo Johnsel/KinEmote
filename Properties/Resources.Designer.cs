@@ -66,5 +66,12 @@ namespace KinEmote.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
+        
+        internal static System.Drawing.Bitmap Video_Frame {
+            get {
+                object obj = ResourceManager.GetObject("Video_Frame", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }

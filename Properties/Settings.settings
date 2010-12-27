@@ -3,7 +3,7 @@
   <Profiles />
   <Settings>
     <Setting Name="IpAddress" Type="System.String" Scope="User">
-      <Value Profile="(Default)">192.168.0.100</Value>
+      <Value Profile="(Default)">localhost</Value>
     </Setting>
     <Setting Name="StreamViewerLocation" Type="System.Drawing.Point" Scope="User">
       <Value Profile="(Default)">100, 100</Value>
@@ -11,11 +11,11 @@
     <Setting Name="AutoStartStreamViewer" Type="System.Boolean" Scope="User">
       <Value Profile="(Default)">False</Value>
     </Setting>
-    <Setting Name="Port" Type="System.Int32" Scope="User">
-      <Value Profile="(Default)">9777</Value>
-    </Setting>
     <Setting Name="TopMost" Type="System.Boolean" Scope="User">
       <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ClientType" Type="KinEmote.ClientType" Scope="User">
+      <Value Profile="(Default)">XBMC</Value>
     </Setting>
   </Settings>
 </SettingsFile>

@@ -25,7 +25,7 @@ namespace KinEmote.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("192.168.0.100")]
+        [global::System.Configuration.DefaultSettingValueAttribute("localhost")]
         public string IpAddress {
             get {
                 return ((string)(this["IpAddress"]));
@@ -61,18 +61,6 @@ namespace KinEmote.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("9777")]
-        public int Port {
-            get {
-                return ((int)(this["Port"]));
-            }
-            set {
-                this["Port"] = value;
-            }
-        }
-        
-        [global::System.Configuration.UserScopedSettingAttribute()]
-        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.DefaultSettingValueAttribute("False")]
         public bool TopMost {
             get {
@@ -80,6 +68,18 @@ namespace KinEmote.Properties {
             }
             set {
                 this["TopMost"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("XBMC")]
+        public global::KinEmote.ClientType ClientType {
+            get {
+                return ((global::KinEmote.ClientType)(this["ClientType"]));
+            }
+            set {
+                this["ClientType"] = value;
             }
         }
     }
